@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/wihoho/wihoho/Android-XMPP.svg)](http://hits.dwyl.io/wihoho/wihoho/Android-XMPP)
 # Abstract
 Cloud computing could be deployed in the process of designing a mobile application in order to overcome the limits of smartphones like low-speed CPU, small memory and low battery. This project basically constructs an android application with the cloud assisted which allows people to watch the video and chat with others simultaneously. This application uses video from Youtube as the content provider. Furthermore, it chooses the App Engine powered by Google as the cloud. The chatting service is built on Extensible Messaging and Presence Protocol (XMPP).
 
